@@ -63,8 +63,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Install Flask and other necessary dependencies.
 
 ```bash
-pip install Flask
-pip install flask-cors
+pip install -r requirements.txt
 ```
 
 Start the Flask server.
