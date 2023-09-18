@@ -1,7 +1,7 @@
 # Python React Travel Agency with Rapyd API Integration
 
 ### Overview
-Build a robust travel agency web application that empowers users to register, log in, explore listed trips, and book their desired journeys with ease. Seamlessly integrate Rapyd's payment processing capabilities into your Python and React application to offer secure and efficient payment solutions for travelers.
+Build a robust travel agency web application that enables users to register, log in, explore listed trips, and book their desired journeys with ease. Seamlessly integrate Rapyd's payment processing capabilities into your Python and React application to offer secure and efficient payment solutions for travelers.
 
 ### Prerequisites
 Before diving into this project, ensure that you have the following prerequisites in place:
