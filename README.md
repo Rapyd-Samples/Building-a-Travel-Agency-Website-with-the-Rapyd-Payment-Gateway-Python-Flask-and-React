@@ -14,7 +14,7 @@ Before diving into this project, ensure that you have the following prerequisite
 To kickstart your journey with this travel agency application, you'll need a [Rapyd account](https://dashboard.rapyd.net/). If you don't have one yet, you can easily sign up at the Rapyd Dashboard.
 
 ### Exposing Port for Rapyd Integration
-Integrating Rapyd into your application requires external access to your development server. Since Rapyd doesn't accept requests from localhost, you'll need to expose your server to the outside world. For secure testing and interaction with Rapyd APIs, you can utilize a tool like ngrok. Ngrok generates a temporary web address and redirects traffic to your local machine, allowing you to fully experience Rapyd's features within your development environment.
+Integrating Rapyd into your application requires external access to your development server. Since Rapyd doesn't accept requests from localhost and cors issues with React, you'll need to expose your server to the outside world. For secure testing and interaction with Rapyd APIs, you can utilize a tool like ngrok. Ngrok generates a temporary web address and redirects traffic to your local machine, allowing you to fully experience Rapyd's features within your development environment.
 
 ### Running the Application
 Clone this repository to your local machine.
