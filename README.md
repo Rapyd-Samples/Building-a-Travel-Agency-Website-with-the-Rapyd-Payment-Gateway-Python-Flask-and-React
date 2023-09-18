@@ -107,6 +107,6 @@ Access the React frontend by visiting http://localhost:3000.
 With the entire setup in place, you can now explore and test the travel agency application's features, including user registration, login, trip browsing, and booking—all while enjoying the secure payment processing capabilities offered by Rapyd.
 
 ### Get Support
-For additional support, questions, or community engagement, feel free to visit the Rapyd Community.
+For additional support, questions, or community engagement, feel free to visit the [Rapyd Community](https://community.rapyd.net/).
 
 Happy coding, and may your travel agency app flourish with seamless payments!
