@@ -1,7 +1,7 @@
 # Python React Travel Agency with Rapyd API Integration
 
 ### Overview
-Build a robust travel agency web application that enables users to register, log in, explore listed trips, and book their desired journeys with ease. Seamlessly integrate Rapyd's payment processing capabilities into your Python and React application to offer secure and efficient payment solutions for travelers.
+Build a robust travel agency web application that allows users to easily register, log in, explore listed trips, and book their desired journeys. Seamlessly integrate Rapyd's payment processing capabilities into your Python and React applications to offer travelers secure and efficient payment solutions.
 
 ### Prerequisites
 Before diving into this project, ensure that you have the following prerequisites in place:
@@ -11,10 +11,10 @@ Before diving into this project, ensure that you have the following prerequisite
 - Ngrok
   
 ### Getting Started
-To kickstart your journey with this travel agency application, you'll need a [Rapyd account](https://dashboard.rapyd.net/). If you don't have one yet, you can easily sign up at the Rapyd Dashboard.
+To kickstart your journey with this travel agency application, you'll need a [Rapyd account](https://dashboard.rapyd.net/). If you don't have one, you can easily sign up at the Rapyd Dashboard.
 
 ### Exposing Port for Rapyd Integration
-Integrating Rapyd into your application requires external access to your development server. Since Rapyd doesn't accept requests from localhost and cors issues with React, you'll need to expose your server to the outside world. For secure testing and interaction with Rapyd APIs, you can utilize a tool like ngrok. Ngrok generates a temporary web address and redirects traffic to your local machine, allowing you to fully experience Rapyd's features within your development environment.
+Integrating Rapyd into your application requires external access to your development server. Since Rapyd doesn't accept requests from localhost and cors issues with React, you'll need to expose your server to the outside world. For secure testing and interaction with Rapyd APIs, you can utilize a tool like ngrok. Ngrok generates a temporary web address and redirects traffic to your local machine, allowing you to experience Rapyd's features within your development environment fully.
 
 ### Running the Application
 Clone this repository to your local machine.
@@ -109,3 +109,5 @@ With the entire setup in place, you can now explore and test the travel agency a
 For additional support, questions, or community engagement, feel free to visit the [Rapyd Community](https://community.rapyd.net/).
 
 Happy coding, and may your travel agency app flourish with seamless payments!
+
+Additional Reading: https://community.rapyd.net/t/embedded-financial-services-the-future-of-vertical-saas/59681
